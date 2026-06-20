@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /
+
+# Host site URL
+Host: https://auradesignstudio.com
+
+# XML Sitemap link
+Sitemap: https://auradesignstudio.com/sitemap.xml
